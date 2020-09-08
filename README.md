@@ -18,10 +18,10 @@ It features:
 - Input Volume (0-1)
 - Dry-Wet Mix (0-1)
 - Feedback (0-1)
-- Three Time Controller
-  - 1ms-2000ms Slider: set a delay time between 1ms and 2sec
+- Three Time controllers
+  - 1ms-2000ms slider: set a delay time between 1ms and 2sec
   - TAP: Tap in a tempo (needs 3 to 4 taps)
-  - Time 0-127: Change those values for three types of delay at hand with one value:
+  - Time 0-127: Change those values for three types of delay at hand with one controller:
     - 0-67 chromatically pitched resonating delay
     - 68-120 41ms to 1200ms delay times
     - 121-127 DAW BPM synced delay times (see Info Box for details!)
