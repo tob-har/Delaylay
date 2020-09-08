@@ -3,7 +3,7 @@ Delay Plugin (VST3 and Audio Unit)
 
 V. 0.1 (08.09.2020)
 
-Get the release here.
+[Get the release here.](https://github.com/tob-har/Delaylay/releases/)
 
 <img src="https://github.com/tob-har/Delaylay/blob/master/delaylay-screenshot.png" alt="Delaylay Plugin" width="500"/>
 
